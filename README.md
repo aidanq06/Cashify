@@ -1,72 +1,103 @@
 # Cashify
 
-## ***CHECK DOCUMENTATION.PDF FOR MORE INFORMATION***
+Cashify is a comprehensive personal finance management system tailored for students. With its modern, user-friendly interface, Cashify empowers users to seamlessly manage their finances by tracking transactions, setting budgets, analyzing spending patterns, and generating detailed reports.
 
-Cashify is a comprehensive personal finance management system designed for students. It provides a streamlined platform for tracking finances, managing budgets, and gaining insights into spending patterns. With a modern and user-friendly interface, Cashify empowers users to take control of their financial well-being.
+This tool provides all the essentials to take control of your financial well-being in one streamlined platform.
 
 ![mainlogo](https://github.com/user-attachments/assets/97fed714-a9c5-4959-8d1f-1480aeaa72c6)
 
 ---
 
 ## Key Features
-- **Transactions Management**: Easily input, update, delete, and search for transactions with details like date, amount, category, and description.
-- **Budgeting**: Set daily, weekly, or monthly budgets, and monitor spending limits with visual progress indicators.
-- **Spending Analysis**: Gain insights into your financial habits through AI-powered tools and visualizations like pie charts, bar graphs, and trend lines.
-- **Category Customization**: Manage income and expense categories to tailor the app to your personal needs.
-- **Export Reports**: Export financial data as PDF or CSV files for external use, with customizable options.
-- **Settings**: Update profile information, change themes (light/dark), and configure notifications.
-- **Secure Access**: Password encryption and secure authentication to protect user data.
+
+- **Transactions Management**  
+   Add, update, delete, and search for transactions effortlessly, with details such as date, amount, category, and descriptions.
+
+- **Budgeting**  
+   Set monthly budgets and monitor your spending habits with visual cues. A dynamic title on the dashboard changes color if you're over budget.
+
+- **Spending Analysis**  
+   Analyze spending trends over the past 6 months with intuitive line charts that include a visual representation of your spending budget. Explore detailed category breakdowns with pie charts for personalized insights.
+
+- **Export Reports**  
+   Export your financial data as PDF or CSV files, allowing for easy offline storage and detailed reporting.
+
+- **Profile Management**  
+   Update your first name, last name, and email, or reset your password, all from within the app.
+
+- **Secure Access**  
+   Cashify ensures data security with encrypted password storage and email-based verification during login.
+
+- **Help Guide**  
+   Built-in Help Guide answers frequently asked questions about each feature to ensure users maximize their experience.
 
 ---
 
 ## System Requirements
-- **Operating System Compatibility**: Cashify is optimized for Windows 10 and above.
-- **Internet Connectivity**: Required for accessing cloud-based features and real-time updates.
-- **Storage**: At least `50 MB` of storage is recommended for smooth operation.
+
+- **Operating System**: Optimized for Windows 10 and above.
+- **Internet Connectivity**: Required for accessing cloud-based features, exporting data, and receiving updates.
+- **Storage**: At least `100 MB` is recommended for smooth operation.
 
 ---
 
 ## Installation Guide
-Follow these steps to install Cashify on your system:
+
+To install Cashify, follow these steps:
 
 1. Visit the [Cashify GitHub repository](https://github.com/aidanq06/Cashify/).
-2. Click `<> Code` and download the ZIP file, as shown below.
-   
-![image](https://github.com/aidanq06/PartnerLink/assets/62295620/88ff8a9f-a12d-4f52-9c4d-1c096cbbddab)
+2. Click the green `<> Code` button and select "Download ZIP."
+3. Extract the downloaded ZIP file to your desired directory.
+4. Ensure the directory matches the repository layout (e.g., correct folder hierarchy for assets and scripts).
+![image](https://github.com/user-attachments/assets/5c00fbf2-724a-4fa3-9160-65fac24423b1)
+5. Open the directory and run `main.py` or the precompiled executable file, `Cashify.exe`.
 
-3. Unzip the downloaded package to your preferred directory.
-4. Ensure the directory structure matches the repository's layout. (See below for reference)
+**Note for Windows Users:**  
+If you encounter a "Windows protected your PC" message, click `More info` and select `Run anyway` to launch the application.
 
-![image](https://github.com/aidanq06/PartnerLink/assets/62295620/2da34d8d-c836-4f1e-bb1b-9ae6cddcbee0)
+---
 
-5. Run `Cashify.exe`.
+## Using Cashify
 
-**NOTE:** If a "Windows protected your PC" message appears, click `More info` and then `Run anyway`.
+1. **Login**:  
+- Create a new account directly through the `Register` option.
+- A verification email will be sent towards the email used to register once attempting to log in.
 
-![image](https://github.com/aidanq06/PartnerLink/assets/62295620/e0103bcc-b7da-4450-a369-0597b8ae5759)
+2. **Dashboard**:  
+- The dynamic dashboard greets users with their name and displays monthly spending and budgets. If spending exceeds the budget, the text dynamically changes color to red as a warning.
 
-![image](https://github.com/aidanq06/PartnerLink/assets/62295620/8e8e5cdb-ea7f-4d44-87a6-c87566076181)
+3. **Transactions**:  
+- Add, view, or manage all your financial transactions in one place. Filter and search transactions by date, category, or keyword.
 
-6. Cashify is now ready to assist you in managing your personal finances.
+4. **Set Budget**:  
+- Define and adjust monthly budgets for effective financial planning.
 
-**Please Note:**
-- A stable internet connection is required for optimal functionality.
-- Default demo credentials:
-  - Username: **test@gmail.com**
-  - Password: **123**
+5. **Analyze Spending**:  
+- Visualize spending trends across months or view spending breakdowns by category.
+
+6. **Export**:  
+- Save your transaction history as a PDF or CSV for offline use.
+
+7. **Settings**:  
+- Update personal information like your first and last name, email, and password.
+
+8. **Logout**:  
+- Securely log out to ensure your data is protected.
 
 ---
 
 ## Support and Feedback
-For inquiries, feedback, or support, feel free to connect with our development team:
 
-- Aidan - [GitHub](https://github.com/aidanq06)
+For questions, feature requests, or issues, feel free to connect with the development team:
 
-Your feedback is invaluable to us as we strive to enhance Cashify for all users.
+- **Aidan** - [GitHub](https://github.com/aidanq06)
+
+We value your feedback and are committed to making Cashify the best finance management tool for students.
 
 ---
 
 ## Disclaimer
-Cashify is currently in its beta phase and is undergoing rigorous testing. The content in this document is intended for demonstration purposes and may differ from the final product offering.
 
----
+Cashify is currently in the **beta phase** and may undergo frequent updates. Some features may vary from the descriptions provided in this documentation. By using Cashify, users agree that the development team is not liable for any unintended financial implications caused by the app.
+
+--- 
